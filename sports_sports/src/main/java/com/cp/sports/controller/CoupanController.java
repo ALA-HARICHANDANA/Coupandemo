@@ -24,7 +24,7 @@ import io.swagger.annotations.Api;
 @RequestMapping("/")
 @Api
 public class CoupanController {
-	
+	//class...
 	@Autowired
 	
 	private CoupanService coupanService;
